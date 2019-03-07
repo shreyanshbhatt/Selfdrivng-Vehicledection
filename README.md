@@ -19,11 +19,6 @@ The goals / steps of this project are the following:
 [image3]: ./output_images/test_3_result.jpg
 [video1]: ./project_video_output_filterd.mp4
 
-## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
-### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.
-
----
-### Writeup / README
 ### Histogram of Oriented Gradients (HOG)
 
 #### 1. Explain how (and identify where in your code) you extracted HOG features from the training images.
